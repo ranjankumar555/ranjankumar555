@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**vtu16964ranjankumar/vtu16964ranjankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ranjankumar555/ranjankumar555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
 <h3 align="center">A passionate Embedded Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vtu16964ranjankumar&label=Profile%20views&color=0e75b6&style=flat" alt="vtu16964ranjankumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjankumar555&label=Profile%20views&color=0e75b6&style=flat" alt="ranjankumar555" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtu16964ranjankumar" alt="vtu16964ranjankumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjankumar555" alt="ranjankumar555" /></a> </p>
 
-- 🔭 I’m currently working on [Four way traffic system with Pedestrian Button](https://github.com/vtu16964ranjankumar/Four-way-traffic-system-with-pedestrian-button)
+- 🔭 I’m currently working on [Four way traffic system with Pedestrian Button](https://github.com/ranjankumar555/Four-way-traffic-system-with-pedestrian-button)
 
 - 🌱 I’m currently learning **C programming**
 
-- 👯 I’m looking to collaborate on [User-Data-Collector-in-RedHat](https://github.com/vtu16964ranjankumar/User-Data-Collector-in-RedHat)
+- 👯 I’m looking to collaborate on [User-Data-Collector-in-RedHat](https://github.com/ranjankumar555/User-Data-Collector-in-RedHat)
 
 - 💬 Ask me about **Embedded system development**
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtu16964ranjankumar&show_icons=true&locale=en&layout=compact" alt="vtu16964ranjankumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjankumar555&show_icons=true&locale=en&layout=compact" alt="ranjankumar555" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtu16964ranjankumar&show_icons=true&locale=en" alt="vtu16964ranjankumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjankumar555&show_icons=true&locale=en" alt="ranjankumar555" /></p>
 
