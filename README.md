@@ -23,15 +23,22 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjankumar555" alt="ranjankumar555" /></a> </p> -->
 
-- 🔭 I’m currently working on [Four way traffic system with Pedestrian Button](https://github.com/ranjankumar555/Four-way-traffic-system-with-pedestrian-button)
+### 🌱 Current Projects
+- **[# File Handling in C - Exploring Commands Implemented Using File Handling Concepts](https://github.com/yourusername/repository-name)**  
+  Exploring and implementing common Linux commands using file handling concepts in C for better understanding of system-level operations.
 
-- 🌱 I’m currently learning **Embedded C and LPC2129 ARM7TDMI-S 32bit micro-controller**
+### 🧠 Learning
+- **Embedded C**
+- **LPC2129 ARM7TDMI-S 32bit Microcontroller**  
+  Focused on gaining hands-on experience with real-time embedded systems and ARM-based development.
 
-- 👯 I’m looking to collaborate on [User-Data-Collector-in-RedHat](https://github.com/ranjankumar555/User-Data-Collector-in-RedHat)
+### 👯 Collaboration
+- Looking to collaborate on embedded software projects.
+ <!-- particularly those involving real-time systems, hardware integration, and performance optimization. -->
 
-- 💬 Ask me about **Embedded system development**
+### 💬 Ask Me About
+- Embedded systems development, low-level programming and real-time applications.
 
-- 📫 How to reach me **ranjankumar.tech23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
