@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjankumar555" alt="ranjankumar555" /></a> </p> -->
 
 ### 🌱 Current Projects
-- **[# File Handling in C - Exploring Commands Implemented Using File Handling Concepts](https://github.com/yourusername/repository-name)**  
+- **[# File Handling in C - Exploring Commands Implemented Using File Handling Concepts](https://github.com/ranjankumar555/hobby-project)**  
   Exploring and implementing common Linux commands using file handling concepts in C for better understanding of system-level operations.
 
 ### 🧠 Learning
