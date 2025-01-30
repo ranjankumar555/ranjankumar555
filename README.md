@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjankumar555" alt="ranjankumar555" /></a> </p> -->
 
 ### 🌱 Current Projects
-- **[# File Handling in C - Exploring Commands Implemented Using File Handling Concepts](https://github.com/ranjankumar555/hobby-project)**  
-  Exploring and implementing common Linux commands using file handling concepts in C for better understanding of system-level operations.
+- **[# File Handling in C - Exploring Commands Implemented Using File Handling Concepts](https://github.com/ranjankumar555/hobby-project)**
+
 
 ### 🧠 Learning
 - **Embedded C**
 - **LPC2129 ARM7TDMI-S 32bit Microcontroller**  
-  Focused on gaining hands-on experience with real-time embedded systems and ARM-based development.
 
 ### 👯 Collaboration
 - Looking to collaborate on embedded software projects.
@@ -43,13 +42,17 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ranjankumar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjankumar24" height="30" width="40" /></a>
+<!--
 <a href="https://www.codechef.com/users/ranjankumar555" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranjankumar555" height="30" width="40" /></a>
+-->
 <a href="https://www.hackerrank.com/ranjan_vtu16964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjan_vtu16964" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ranjankumar555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ranjankumar555" height="30" width="40" /></a>
+
+<!-- <a href="https://codeforces.com/profile/ranjankumar555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ranjankumar555" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranjankumartech23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjankumartech23" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/ranjankumar555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ranjankumar555" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ranjankumar555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ranjankumar555" height="30" width="40" /></a>
 </p>
+-->
 
 ### Languages and Tools:
 
