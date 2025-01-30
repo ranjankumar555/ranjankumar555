@@ -22,23 +22,8 @@ Here are some ideas to get you started:
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjankumar555&label=Profile%20views&color=0e75b6&style=flat" alt="ranjankumar555" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjankumar555" alt="ranjankumar555" /></a> </p> -->
-
-### 🌱 Current Projects
-- **[# File Handling in C - Exploring Commands Implemented Using File Handling Concepts](https://github.com/ranjankumar555/hobby-project)**
-
-
-### 🧠 Learning
-- **Embedded C**
-- **LPC2129 ARM7TDMI-S 32bit Microcontroller**  
-
-### 👯 Collaboration
-- Looking to collaborate on embedded software projects.
- <!-- particularly those involving real-time systems, hardware integration, and performance optimization. -->
-
-### 💬 Ask Me About
-- Embedded systems development, low-level programming and real-time applications.
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=true&width=435&height=30&lines=%F0%9F%8C%B1+Current+Project...)](https://git.io/typing-svg)  
+[#Exploring Commands Implemented Using File Handling Concepts](https://github.com/ranjankumar555/hobby-project)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ranjankumar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjankumar24" height="30" width="40" /></a>
