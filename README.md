@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjankumar555" alt="ranjankumar555" /></a> </p> -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=true&width=435&height=30&lines=%F0%9F%8C%B1+Current+Project...)](https://git.io/typing-svg)  
 [#Exploring Commands Implemented Using File Handling Concepts](https://github.com/ranjankumar555/hobby-project)
+[#C string library implementation](https://github.com/ranjankumar555/hobby-project/tree/main/string-lib))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ranjankumar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjankumar24" height="30" width="40" /></a>
